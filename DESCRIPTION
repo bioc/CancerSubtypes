@@ -14,4 +14,3 @@ biocViews: Clustering, Software, Visualization, GeneExpression
 URL: https://github.com/taoshengxu/CancerSubtypes
 BugReports: https://github.com/taoshengxu/CancerSubtypes/issues
 RoxygenNote: 7.3.2
-PackageStatus: Deprecated

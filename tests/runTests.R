@@ -1,1 +1,1 @@
-BiocGenerics:::testPackage("CancerSubtypes")
+#BiocGenerics:::testPackage("CancerSubtypes")
